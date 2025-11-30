@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Ronald+Klaive+Borges+da+Silva;I'm+19+years+old;I+am+from+Quixadá,+CE;I+study+Information+Systems+at+Unicatólica+Quixadá;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
